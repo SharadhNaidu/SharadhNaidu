@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍎I'm Currently studying B.tech In RV.<br>🍎I'm currently Exploring the fields of Web-dev And Python.<br>🍎I'm interested in Application development and Working on Robotics<br>      as well as Electrponics.<br><br>
+🍎I'm Currently pursuing B.tech at RVU.<br>🍎I'm currently Exploring the fields of Web-dev And Python.<br>🍎I'm interested in Application development and Working on Robotics<br>      as well as Electrponics.<br><br>
 
 
 ## 🌐 Socials:
