@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍎I'm Currently pursuing B.tech at RVU.<br>🍎I'm currently Exploring the fields of Web-dev And Python.<br>🍎I'm interested in Application development and Working on Robotics<br>      as well as Electrponics.<br><br>
+🍎Hi Stalker!<br>🍎I havent uploaded my 23 other projects out of shy!<br>🍎I'm obsessed with electronics and robotics!<br>And Keep stalking <br>No Worries if you arent a stalker <br>
 
 
 ## 🌐 Socials:
