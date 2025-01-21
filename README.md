@@ -1,7 +1,3 @@
-# 💫 About Me:
-🍎Hi Stalker!<br>🍎I havent uploaded my 23 other projects out of shy!<br>🍎I'm obsessed with electronics and robotics!<br>And Keep stalking <br>No Worries if you arent a stalker <br>
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mega1ndian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mega1ndian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sharadh-Naidu ) 
 
