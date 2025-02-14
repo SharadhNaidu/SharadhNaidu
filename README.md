@@ -1,4 +1,8 @@
 ![Header](./github-header-image.png)
+<!-- CodeChef Stats Card -->
+<a href="https://www.codechef.com/users/sharadhnaidu" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/{your_codechef_username}&prefix=Rating%20&logo=codechef&logoColor=white&labelColor=000000&color=success" alt="CodeChef Rating"/>
+</a>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mega1ndian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mega1ndian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sharadh-Naidu ) 
 
