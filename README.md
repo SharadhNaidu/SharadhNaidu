@@ -1,8 +1,18 @@
 ![Header](./github-header-image.png)
-<!-- CodeChef Stats Card -->
-<a href="https://www.codechef.com/users/sharadhnaidu" target="_blank">
-  <img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&prefix=Rating%20&logo=codechef&logoColor=white&labelColor=000000&color=success" alt="CodeChef Rating"/>
-</a>
+# CodeChef Profile Stats
+
+<div align="center">
+
+## 🏆 CodeChef Stats
+<!-- CodeChef Rating -->
+[![CodeChef Rating](https://img.shields.io/badge/dynamic/json?label=Rating&query=$.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
+<!-- CodeChef Problems Solved -->
+[![Problems Solved](https://img.shields.io/badge/dynamic/json?label=Problems%20Solved&query=$.fully_solved.count&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
+<!-- CodeChef Global Rank -->
+[![Global Rank](https://img.shields.io/badge/dynamic/json?label=Global%20Rank&query=$.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
+<!-- CodeChef Stars -->
+[![Stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=$.stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mega1ndian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mega1ndian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sharadh-Naidu ) 
 
