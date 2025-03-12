@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=SHARADH;FRONTEND+%7C+WEB3+%7C+AUTOMATION;BUILDING+THE+FUTURE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=SHARADH;FRONTEND+%7C+WEB3+%7C+CP;BUILDING+THE+FUTURE" alt="Typing SVG" />
 </h1>
 
 <div align="center">
