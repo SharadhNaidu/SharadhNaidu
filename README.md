@@ -4,9 +4,8 @@
 </h1>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=SharadhNaidu&abbreviated=true)
 # CodeChef Profile Stats
-
+  [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 <div align="center">
 
 ## 🏆 CodeChef Stats
