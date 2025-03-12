@@ -5,7 +5,7 @@
 
 <div align="center">
 # CodeChef Profile Stats
-  [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+  [GitHub Profile Views Counter]: https://github.com/SharadhNaidu/github-profile-views-counter
 <div align="center">
 
 ## 🏆 CodeChef Stats
