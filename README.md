@@ -17,6 +17,9 @@
 [![Global Rank](https://img.shields.io/badge/dynamic/json?label=Global%20Rank&query=$.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
 <!-- CodeChef Stars -->
 [![Stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=$.stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=BUILDING%20THE%20FUTURE%20ONE%20LINE%20OF%20CODE%20AT%20A%20TIME&fontSize=20&fontColor=00FFFF&animation=fadeIn" width="100%" />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mega1ndian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mega1ndian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharadh-naidu-72259a32b/) 
@@ -31,15 +34,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SharadhNaidu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SharadhNaidu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SharadhNaidu&icon=0&color=0)](https://visitcount.itsvg.in)
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=BUILDING%20THE%20FUTURE%20ONE%20LINE%20OF%20CODE%20AT%20A%20TIME&fontSize=20&fontColor=00FFFF&animation=fadeIn" width="100%" />
-</div>
+
 
