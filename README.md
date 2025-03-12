@@ -4,6 +4,7 @@
 </h1>
 
 <div align="center">
+  ![](https://komarev.com/ghpvc/?username=SharadhNaidu&abbreviated=true)
 # CodeChef Profile Stats
 
 <div align="center">
