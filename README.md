@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=BUILDING%20THE%20FUTURE%20ONE%20LINE%20OF%20CODE%20AT%20A%20TIME&fontSize=20&fontColor=00FFFF&animation=fadeIn" width="100%" />
 </div>
-
+<div align="center">
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mega1ndian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mega1ndian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharadh-naidu-72259a32b/) 
 
@@ -24,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SharadhNaidu&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SharadhNaidu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SharadhNaidu&icon=0&color=0)](https://visitcount.itsvg.in)</div>
 
 
