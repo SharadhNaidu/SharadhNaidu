@@ -2,13 +2,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=SHARADH;FRONTEND+%7C+WEB3+%7C+CP;BUILDING+THE+FUTURE" alt="Typing SVG" />
 </h1>
-
-<div align="center">
-# CodeChef Profile Stats
-
-<div align="center">
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=BUILDING%20THE%20FUTURE%20ONE%20LINE%20OF%20CODE%20AT%20A%20TIME&fontSize=20&fontColor=00FFFF&animation=fadeIn" width="100%" />
 </div>
