@@ -8,15 +8,7 @@
 
 <div align="center">
 
-## 🏆 CodeChef Stats
-<!-- CodeChef Rating -->
-[![CodeChef Rating](https://img.shields.io/badge/dynamic/json?label=Rating&query=$.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
-<!-- CodeChef Problems Solved -->
-[![Problems Solved](https://img.shields.io/badge/dynamic/json?label=Problems%20Solved&query=$.fully_solved.count&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
-<!-- CodeChef Global Rank -->
-[![Global Rank](https://img.shields.io/badge/dynamic/json?label=Global%20Rank&query=$.global_rank&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
-<!-- CodeChef Stars -->
-[![Stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=$.stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/sharadhnaidu&logo=codechef&logoColor=white&labelColor=000000&color=success)](https://www.codechef.com/users/sharadhnaidu)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=BUILDING%20THE%20FUTURE%20ONE%20LINE%20OF%20CODE%20AT%20A%20TIME&fontSize=20&fontColor=00FFFF&animation=fadeIn" width="100%" />
 </div>
