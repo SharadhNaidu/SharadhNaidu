@@ -7,38 +7,28 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=1000&color=7eb8f7&center=true&vCenter=true&width=480&lines=building+models+that+generalise;predictive+systems+%7C+data+pipelines;python+%7C+c%2B%2B+%7C+c;rv+university+%E2%80%94+bengaluru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=1000&color=7eb8f7&center=true&vCenter=true&width=480&lines=building+models+that+generalise;predictive+systems+%7C+data+pipelines;python+%7C+c%2B%2B+%7C+c+%7C+typescript;rv+university+%E2%80%94+bengaluru" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/sharadh-naidu-72259a32b/">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/SharadhNaiduTrains">
-    <img src="https://img.shields.io/badge/hugging%20face-FFD21E?style=flat-square&logo=huggingface&logoColor=111&labelColor=FFD21E" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/iamsharadh7">
-    <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=20BEFF" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/SharadhNaidu">
-    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="28"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sharadhanaidu@rvu.edu.in">
-    <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/sharadh-naidu-72259a32b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/SharadhNaidu" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub"/>
+</a>
+<a href="https://huggingface.co/SharadhNaiduTrains" target="_blank">
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=FFD21E" height="40"/>
+</a>
+<a href="https://www.kaggle.com/iamsharadh7" target="_blank">
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=20BEFF" height="40"/>
+</a>
+<a href="mailto:sharadhanaidu@rvu.edu.in" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Email"/>
+</a>
 
-<br/><br/>
-
----
-
-<br/>
+<br/><br/><br/>
 
 <table>
   <tr>
@@ -48,7 +38,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,ts&theme=dark" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
@@ -82,27 +72,22 @@
 
 <br/><br/>
 
----
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SharadhNaidu&theme=nord_dark&exclude=html,css,javascript,typescript" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharadhNaidu&theme=nord_dark&exclude=html,css,javascript,typescript" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SharadhNaidu&theme=github_dark&exclude=html,css" width="300"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharadhNaidu&theme=github_dark&exclude=html,css" width="300"/>
 
 <br/><br/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharadhNaidu&theme=github_dark" width="650"/>
 
-<br/>
+<br/><br/><br/>
 
-[![PocketRag](https://img.shields.io/badge/⭐_Open_Source-PocketRag-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff&color=111111)](https://github.com/SharadhNaidu/PocketRag)
+<!-- PocketRag as a proper featured project card -->
+<a href="https://github.com/SharadhNaidu/PocketRag">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharadhNaidu&repo=PocketRag&theme=github_dark&hide_border=false&show_icons=true&bg_color=0d1117&title_color=7eb8f7&icon_color=FFD21E&text_color=8b949e&border_color=30363d&border_radius=12" />
+</a>
 
-<br/><br/>
-
----
-
-<br/>
+<br/><br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/output/pacman-contribution-graph-dark.svg" />
