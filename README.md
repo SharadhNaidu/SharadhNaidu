@@ -30,27 +30,30 @@
 
 ---
 
-### Tech Stack
-
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -59,23 +62,13 @@
 
 ---
 
-###  Stats
-
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SharadhNaidu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=48dbfb&icon_color=ff9ff3&text_color=a8b2d8&ring_color=feca57" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharadhNaidu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=48dbfb&text_color=a8b2d8&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=SharadhNaidu&theme=tokyonight&hide_border=true&background=0d1117&ring=ff6b6b&fire=feca57&currStreakLabel=48dbfb&sideLabels=a8b2d8&dates=555577&sideNums=ff9ff3&currStreakNum=feca57" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharadhNaidu&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=48dbfb&text_color=a8b2d8&langs_count=12&size_weight=0.5&count_weight=0.5" />
 
 <br/><br/>
 
 ---
-
-###  Open Source
 
 <br/>
 
@@ -86,8 +79,6 @@
 <br/><br/>
 
 ---
-
-###  Contributions
 
 <br/>
 
