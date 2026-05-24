@@ -1,13 +1,13 @@
 <div align="center">
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d0d0d,50:1a1a2e,100:16213e&height=280&section=header&text=Sharadh%20Naidu&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=ML%20%2F%20AI%20%E2%80%94%20Data%20Analytics%20%E2%80%94%20Systems&descSize=18&descColor=aaaaaa&descAlignY=68&fontAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,30:1a1a3e,60:0d1b4b,100:0a0a1a&height=260&section=header&text=Sharadh%20Naidu&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=ML%20%2F%20AI%20%E2%80%94%20Data%20Analytics%20%E2%80%94%20Systems&descSize=17&descColor=8888bb&descAlignY=70&fontAlignY=42"/>
 </picture>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=1000&color=ffffff&center=true&vCenter=true&width=480&lines=building+models+that+generalise;predictive+systems+%7C+data+pipelines;python+%7C+c%2B%2B+%7C+c;rv+university+%E2%80%94+bengaluru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=1000&color=7eb8f7&center=true&vCenter=true&width=480&lines=building+models+that+generalise;predictive+systems+%7C+data+pipelines;python+%7C+c%2B%2B+%7C+c;rv+university+%E2%80%94+bengaluru" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -90,10 +90,6 @@
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharadhNaidu&theme=nord_dark&exclude=html,css,javascript,typescript" />
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharadhNaidu&theme=nord_dark" width="90%"/>
-
 <br/><br/>
 
 ---
@@ -109,19 +105,15 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/output/pacman-contribution-graph-dark.svg" width="90%"/>
 </picture>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharadhNaidu&bg_color=0d1117&color=ffffff&line=4fc3f7&point=ffffff&area=true&area_color=4fc3f720&hide_border=true&radius=6" width="90%" />
-
-<br/>
+<br/><br/>
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:1a1a3e,100:0f0f23&height=120&section=footer"/>
 </picture>
 
 </div>
