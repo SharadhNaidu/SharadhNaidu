@@ -12,10 +12,27 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharadh-naidu-72259a32b/)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/SharadhNaiduTrains)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iamsharadh7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharadhanaidu@rvu.edu.in)
+<p>
+  <a href="https://www.linkedin.com/in/sharadh-naidu-72259a32b/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/SharadhNaiduTrains">
+    <img src="https://img.shields.io/badge/hugging%20face-FFD21E?style=flat-square&logo=huggingface&logoColor=111&labelColor=FFD21E" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/iamsharadh7">
+    <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=20BEFF" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/SharadhNaidu">
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="28"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sharadhanaidu@rvu.edu.in">
+    <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
+  </a>
+</p>
 
 <br/><br/>
 
@@ -46,15 +63,19 @@
 
 <table>
   <tr>
+    <th>Web & Backend</th>
+    <th>Databases</th>
     <th>Infrastructure</th>
-    <th>Web (supporting)</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,nodejs&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb,firebase&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git&theme=dark" />
     </td>
   </tr>
 </table>
