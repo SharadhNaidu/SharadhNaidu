@@ -1,24 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/pulse-dark.svg">
-  <img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/pulse-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/hero-light.svg" width="100%">
 </picture>
 
-# Sharadh Naidu
+Not an ML engineer — just someone who keeps getting pulled into how the models actually work, and hasn't stopped yet.
 
-Machine learning engineer — I read model and library internals until they make sense, then fix what's actually broken upstream.
-
-[iamsharadh7@gmail.com](mailto:iamsharadh7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sharadh-naidu-72259a32b/) · [X](https://x.com/SharadhNaidu) · [Hugging Face](https://huggingface.co/SharadhNaiduTrains) · [Kaggle](https://www.kaggle.com/iamsharadh7)
-
-### <img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/live-dot.svg" width="10" height="10"> Open-source fixes, synced live
-
-Numerical edge cases in libraries a lot of people depend on. This list is pulled straight from the GitHub API on a schedule — not hand-edited, so it never drifts out of date.
-
-<!--PR-STATUS:START-->
-- **[matplotlib/matplotlib#31844](https://github.com/matplotlib/matplotlib/pull/31844)** — *merged*. Snap near-integer arc windings to a full circle on polar plots
-- **[plotly/plotly.js#7837](https://github.com/plotly/plotly.js/pull/7837)** — *merged*. Fix `fitbounds` to pick the compact side of the globe across the antimeridian
-- **[scipy/scipy#25355](https://github.com/scipy/scipy/pull/25355)** — *open*. `stats.linregress` now warns and returns NaN on constant input instead of garbage
-- **[keras-team/keras#23093](https://github.com/keras-team/keras/pull/23093)** — *open*. Fix `ops.normalize` producing NaN gradients for zero vectors
-- **[pandas-dev/pandas#65841](https://github.com/pandas-dev/pandas/pull/65841)** — *merged*. Fix `Categorical.map()` erroring when categories are mapped to tuples
-<!--PR-STATUS:END-->
-
-<sub>Last synced automatically — see <a href="https://github.com/SharadhNaidu/SharadhNaidu/actions/workflows/sync-readme.yml">sync-readme</a>.</sub>
+<p>
+  <a href="mailto:iamsharadh7@gmail.com"><img src="https://img.shields.io/badge/-141419?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sharadh-naidu-72259a32b/"><img src="https://img.shields.io/badge/-141419?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
+  <a href="https://x.com/SharadhNaidu"><img src="https://img.shields.io/badge/-141419?style=flat-square&logo=x&logoColor=white" height="28" alt="X"></a>
+  <a href="https://huggingface.co/SharadhNaiduTrains"><img src="https://img.shields.io/badge/-141419?style=flat-square&logo=huggingface&logoColor=white" height="28" alt="Hugging Face"></a>
+  <a href="https://www.kaggle.com/iamsharadh7"><img src="https://img.shields.io/badge/-141419?style=flat-square&logo=kaggle&logoColor=white" height="28" alt="Kaggle"></a>
+</p>
