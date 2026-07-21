@@ -1,0 +1,96 @@
+<svg width="100%" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sharadh Naidu">
+  <defs>
+    <filter id="glow-d" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fade-d" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="10%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="90%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="mask-d">
+      <rect x="0" y="0" width="600" height="150" fill="url(#fade-d)"/>
+    </mask>
+  </defs>
+
+  <g mask="url(#mask-d)">
+    <line x1="0" y1="112" x2="600" y2="112" stroke="#8b8b96" stroke-width="0.5" stroke-opacity="0.25"/>
+  </g>
+
+  <text x="300" y="58" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Trebuchet MS','Segoe UI','Verdana',sans-serif" font-size="34" font-weight="700"
+        letter-spacing="3" fill="#f2f2f6" filter="url(#glow-d)">SHARADH <tspan fill="#5a5a62" transform="rotate(-18 345 58)"><animateTransform attributeName="transform" type="rotate" values="-18 345 58;-18 345 58;0 345 58" keyTimes="0;0.68;1" dur="1.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/><animate attributeName="fill" values="#5a5a62;#5a5a62;#f2f2f6" keyTimes="0;0.68;1" dur="1.9s" begin="0s" fill="freeze" calcMode="discrete"/>N</tspan>AIDU</text>
+
+  <circle cx="345" cy="50" r="2" fill="#ffffff" opacity="0" filter="url(#glow-d)">
+    <animate attributeName="r" values="2;2;18" keyTimes="0;0.02;1" dur="0.45s" begin="1.7s" fill="freeze" calcMode="spline" keySplines="0.1 0 0.3 1"/>
+    <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.05;1" dur="0.45s" begin="1.7s" fill="freeze"/>
+  </circle>
+
+  <g>
+    <animateMotion path="M -30,112 L 345,112" dur="1.3s" begin="0s" fill="freeze" calcMode="linear"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-2.5;0,0;0,-2.5;0,0"
+        keyTimes="0;0.25;0.5;0.75;1" dur="0.32s" repeatCount="4.1" additive="sum"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-9;0,0"
+        dur="0.4s" begin="1.8s" repeatCount="1" fill="freeze" additive="sum" calcMode="spline" keySplines="0.3 0 0.2 1;0.3 0 0.7 1"/>
+
+      <!-- back leg -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="18 0 -16;-18 0 -16;18 0 -16"
+          keyTimes="0;0.5;1" dur="0.32s" repeatCount="4.1" additive="sum"/>
+        <line x1="0" y1="-16" x2="0" y2="-3" stroke="#5a5a66" stroke-width="3.6" stroke-linecap="round"/>
+        <ellipse cx="0" cy="-1.5" rx="3.4" ry="2" fill="#5a5a66"/>
+      </g>
+
+      <!-- back arm -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-16 -6 -30;16 -6 -30;-16 -6 -30"
+          keyTimes="0;0.5;1" dur="0.32s" repeatCount="4.1" additive="sum"/>
+        <line x1="-6" y1="-30" x2="-9" y2="-19" stroke="#5a5a66" stroke-width="2.6" stroke-linecap="round"/>
+      </g>
+
+      <!-- body -->
+      <rect x="-7.5" y="-33" width="15" height="18" rx="7.5" fill="#1c1c22" stroke="#c7c7d1" stroke-width="1.4"/>
+      <circle cx="0" cy="-24" r="1.6" fill="none" stroke="#8b8b96" stroke-width="1">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+
+      <!-- head -->
+      <ellipse cx="0" cy="-41" rx="9" ry="8" fill="#1c1c22" stroke="#c7c7d1" stroke-width="1.4"/>
+      <line x1="0" y1="-49" x2="0" y2="-54" stroke="#c7c7d1" stroke-width="1.4" stroke-linecap="round"/>
+      <circle cx="0" cy="-55.5" r="1.8" fill="#e7e7ee">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite"/>
+      </circle>
+      <rect x="-6" y="-43.5" width="12" height="6" rx="3" fill="#101014"/>
+      <circle cx="-3.2" cy="-40.5" r="1.4" fill="#e7e7ee">
+        <animate attributeName="ry" values="1.4;1.4;0.15;1.4" keyTimes="0;0.9;0.95;1" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="3.2" cy="-40.5" r="1.4" fill="#e7e7ee">
+        <animate attributeName="ry" values="1.4;1.4;0.15;1.4" keyTimes="0;0.9;0.95;1" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+
+      <!-- front arm: walks, then reaches up to fix the letter -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="16 6 -30;-16 6 -30;16 6 -30"
+          keyTimes="0;0.5;1" dur="0.32s" begin="0s" repeatCount="4.1" fill="freeze" additive="sum"/>
+        <animateTransform attributeName="transform" type="rotate" values="16 6 -30;-78 6 -30;16 6 -30"
+          dur="0.5s" begin="1.3s" repeatCount="1" fill="freeze" additive="sum" calcMode="spline"
+          keySplines="0.3 0 0.2 1;0.3 0 0.2 1"/>
+        <line x1="6" y1="-30" x2="9" y2="-19" stroke="#c7c7d1" stroke-width="2.6" stroke-linecap="round"/>
+      </g>
+
+      <!-- front leg -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-18 0 -16;18 0 -16;-18 0 -16"
+          keyTimes="0;0.5;1" dur="0.32s" repeatCount="4.1" additive="sum"/>
+        <line x1="0" y1="-16" x2="0" y2="-3" stroke="#c7c7d1" stroke-width="3.6" stroke-linecap="round"/>
+        <ellipse cx="0" cy="-1.5" rx="3.4" ry="2" fill="#c7c7d1"/>
+      </g>
+    </g>
+  </g>
+</svg>
