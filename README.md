@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/hero-light.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/hero.svg" width="100%" alt="Sharadh / ಶರದ್">
 
 Not an ML engineer — just someone who keeps getting pulled into how the models actually work, and hasn't stopped yet.
 
@@ -21,7 +18,7 @@ X: https://x.com/SharadhNaidu | Hugging Face: https://huggingface.co/SharadhNaid
 Kaggle: https://www.kaggle.com/iamsharadh7
 
 Projects:
-- dhvani (github.com/SharadhNaidu/dhvani) — speech synthesis/dialect-generation pipeline: builds training data, fine-tunes a TTS model across dialect variants, with inference and evaluation scripts.
+- dhvani (github.com/SharadhNaidu/dhvani) — Kannada text-to-speech: LoRA fine-tunes IndicF5 (F5-TTS, a CFM + DiT model) for Kannada speech synthesis, with a training/inference pipeline and dialect-variant generation scripts.
 - CleanDictate (github.com/SharadhNaidu/CleanDictate) — real-time dictation engine with filler-word removal and dual tone transformation (professional/casual), built on faster-whisper.
 - PocketRAG (github.com/SharadhNaidu/PocketRag) — fully on-device RAG assistant for Android. Local document Q&A (PDF/txt/md/docx) with citations, no cloud calls, using MediaPipe + LiteRT and an on-disk ObjectBox vector store.
 - vaidya (github.com/SharadhNaidu/vaidya) — patient-facing app that explains prescriptions, lab reports, and X-rays in plain language.
