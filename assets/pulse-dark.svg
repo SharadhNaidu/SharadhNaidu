@@ -1,0 +1,30 @@
+<svg width="100%" height="110" viewBox="0 0 600 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="animated signal trace">
+  <defs>
+    <filter id="glow-d" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fade-d" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="10%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="90%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="mask-d">
+      <rect x="0" y="0" width="600" height="110" fill="url(#fade-d)"/>
+    </mask>
+  </defs>
+  <g mask="url(#mask-d)">
+    <line x1="0" y1="55" x2="600" y2="55" stroke="#8b8b96" stroke-width="0.5" stroke-opacity="0.3"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="6s" repeatCount="indefinite" calcMode="linear"/>
+      <path d="M0,55 L18,55 L22,47 L26,55 L50,55 L54,63 L58,55 L90,55 L94,17 L100,93 L106,55 L150,55 L154,49 L158,55 L190,55 L194,65 L198,55 L230,55 L234,25 L240,55 L300,55"
+            fill="none" stroke="#e7e7ee" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow-d)"/>
+      <path d="M300,55 L318,55 L322,47 L326,55 L350,55 L354,63 L358,55 L390,55 L394,17 L400,93 L406,55 L450,55 L454,49 L458,55 L490,55 L494,65 L498,55 L530,55 L534,25 L540,55 L600,55"
+            fill="none" stroke="#e7e7ee" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow-d)"/>
+    </g>
+  </g>
+</svg>
