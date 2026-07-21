@@ -16,6 +16,16 @@
     <mask id="mask-l">
       <rect x="0" y="0" width="600" height="150" fill="url(#fade-l)"/>
     </mask>
+    <linearGradient id="shine-l" gradientUnits="userSpaceOnUse" x1="-160" y1="0" x2="-40" y2="0">
+      <stop offset="0%" stop-color="#232329"/>
+      <stop offset="42%" stop-color="#232329"/>
+      <stop offset="50%" stop-color="#6b6b76"/>
+      <stop offset="58%" stop-color="#232329"/>
+      <stop offset="100%" stop-color="#232329"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="0 0;0 0;760 0;760 0" keyTimes="0;0.08;0.5;1"
+        dur="5s" repeatCount="indefinite" calcMode="linear"/>
+    </linearGradient>
   </defs>
 
   <g mask="url(#mask-l)">
@@ -31,19 +41,5 @@
 
   <text x="300" y="58" text-anchor="middle" dominant-baseline="middle"
         font-family="'JetBrains Mono','Courier New',monospace" font-size="34" font-weight="700"
-        letter-spacing="4" fill="#15151b" filter="url(#glow-l)">
-    <tspan opacity="0">S<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.0s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.0s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">H<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.09s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.09s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">A<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.18s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.18s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">R<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.27s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.27s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">A<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.36s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.36s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">D<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.45s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.45s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">H<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.54s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.54s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">&#160;<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.63s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.63s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">N<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.72s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.72s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">A<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.81s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.81s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">I<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.9s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.9s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">D<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.99s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="0.99s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-    <tspan opacity="0">U<animate attributeName="opacity" values="0;1;0;1;0;1;1;1;1" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="1.08s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="dx" values="3;-2;2;-1;0;0;0;0;0" keyTimes="0;0.06;0.12;0.18;0.24;0.3;0.5;0.75;1" dur="3.4s" begin="1.08s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-  </text>
+        letter-spacing="4" fill="url(#shine-l)" filter="url(#glow-l)">SHARADH NAIDU</text>
 </svg>
