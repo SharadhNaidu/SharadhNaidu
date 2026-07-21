@@ -1,0 +1,68 @@
+<svg width="100%" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sharadh Naidu">
+  <defs>
+    <filter id="glow-d" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="comet-glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="2.6"/>
+    </filter>
+    <linearGradient id="fade-d" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="10%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="90%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="mask-d">
+      <rect x="0" y="0" width="600" height="150" fill="url(#fade-d)"/>
+    </mask>
+  </defs>
+
+  <g mask="url(#mask-d)">
+    <line x1="0" y1="110" x2="600" y2="110" stroke="#8b8b96" stroke-width="0.5" stroke-opacity="0.25"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="6s" repeatCount="indefinite" calcMode="linear"/>
+      <path d="M0,110 L18,110 L22,102 L26,110 L50,110 L54,118 L58,110 L90,110 L94,72 L100,148 L106,110 L150,110 L154,104 L158,110 L190,110 L194,120 L198,110 L230,110 L234,80 L240,110 L300,110"
+            fill="none" stroke="#8b8b96" stroke-width="1.3" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M300,110 L318,110 L322,102 L326,110 L350,110 L354,118 L358,110 L390,110 L394,72 L400,148 L406,110 L450,110 L454,104 L458,110 L490,110 L494,120 L498,110 L530,110 L534,80 L540,110 L600,110"
+            fill="none" stroke="#8b8b96" stroke-width="1.3" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <path id="cometpath" d="M -30,10 Q 150,-14 300,32" fill="none" stroke="#e7e7ee" stroke-width="1.2"
+        stroke-linecap="round" stroke-dasharray="480" stroke-dashoffset="480" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" from="480" to="0" dur="0.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+    <animate attributeName="opacity" values="0.7;0.7;0" keyTimes="0;0.8;1" dur="1.15s" begin="0s" fill="freeze"/>
+  </path>
+
+  <circle r="2.6" fill="#ffffff" filter="url(#comet-glow)">
+    <animateMotion dur="0.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyPoints="0;1" keyTimes="0;1">
+      <mpath href="#cometpath"/>
+    </animateMotion>
+  </circle>
+  <circle cx="300" cy="32" r="2.6" fill="#ffffff" opacity="0" filter="url(#comet-glow)">
+    <animate attributeName="r" values="2.6;2.6;14" keyTimes="0;0.78;1" dur="1.15s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1;0.1 0 0.3 1"/>
+    <animate attributeName="opacity" values="0;0;0.9;0" keyTimes="0;0.78;0.85;1" dur="1.15s" begin="0s" fill="freeze"/>
+  </circle>
+
+  <text x="300" y="58" text-anchor="middle" dominant-baseline="middle"
+        font-family="'JetBrains Mono','Courier New',monospace" font-size="34" font-weight="700"
+        letter-spacing="4" fill="#f2f2f6" filter="url(#glow-d)">
+    <tspan opacity="0" dy="-42">S<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.05s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.05s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">H<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.105s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.105s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">A<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.16s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.16s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">R<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.215s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.215s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">A<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.27s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.27s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">D<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.325s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.325s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">H<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.38s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.38s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">&#160;<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.435s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.435s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">N<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.49s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.49s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">A<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.545s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.545s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">I<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.6s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.6s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">D<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.655s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.655s" fill="freeze" calcMode="linear"/></tspan>
+    <tspan opacity="0" dy="-42">U<animate attributeName="dy" values="-42;-42;4;-2;1;0" keyTimes="0;0.12;0.55;0.75;0.9;1" dur="1s" begin="1.71s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1;0.3 0 0.2 1"/><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.1;0.3;0.75;0.9;1" dur="1s" begin="1.71s" fill="freeze" calcMode="linear"/></tspan>
+  </text>
+</svg>
