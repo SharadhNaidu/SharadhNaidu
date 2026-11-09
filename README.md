@@ -1,4 +1,4 @@
-tu<img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/hero.svg" width="100%" alt="Sharadh / ಶರದ್">
+<img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/hero.svg" width="100%" alt="Sharadh / ಶರದ್">
 
 Not an ML engineer , just someone who keeps getting pulled into how the models actually work, and hasn't stopped yet.
 
