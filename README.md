@@ -20,6 +20,9 @@ X: https://x.com/SharadhNaidu | Hugging Face: https://huggingface.co/SharadhNaid
 Kaggle: https://www.kaggle.com/iamsharadh7
 
 Projects:
+- synapse-sr (github.com/SharadhNaidu/synapse-sr) — Sentinel-2 super-resolution from 10 m to 2 m: a physical instrument model pins what the satellite measured, the network only adds detail 10 m pixels cannot show, with per-pixel trust maps and calibrated uncertainty. Flash (any CPU) and Pro (Mamba) variants; pip install synapse-sr.
+- resen (github.com/SharadhNaidu/resen) — low-light photo restoration: an adaptive classical pipeline and a transformer run side by side, and a quality controller decides per photo how much to trust each. Runs fully in the browser at resenh.sharadh.blog; includes a technical report.
+- noise-event-detection (github.com/SharadhNaidu/noise-event-detection) — Datathon@IndoML 2026 Track 1: frame-level noise-event detection in Indian-language speech (Vaani). Final leaderboard rank 6 (score 1.5926); 3-page IEEE-format technical report.
 - dhvani (github.com/SharadhNaidu/dhvani) — Kannada text-to-speech: LoRA fine-tunes IndicF5 (F5-TTS, a CFM + DiT model) for Kannada speech synthesis, with a training/inference pipeline and dialect-variant generation scripts.
 - CleanDictate (github.com/SharadhNaidu/CleanDictate) — real-time dictation engine with filler-word removal and dual tone transformation (professional/casual), built on faster-whisper.
 - PocketRAG (github.com/SharadhNaidu/PocketRag) — fully on-device RAG assistant for Android. Local document Q&A (PDF/txt/md/docx) with citations, no cloud calls, using MediaPipe + LiteRT and an on-disk ObjectBox vector store.
@@ -29,11 +32,16 @@ Projects:
 - WindFarms-Predictive-maintenance-model (github.com/SharadhNaidu/WindFarms-Predictive-maintenance-model) — predictive maintenance for wind turbines: autoencoder + LSTM anomaly detection on gearbox/generator sensors, power-curve modeling, operational cost optimization.
 - Defensys (github.com/SharadhNaidu/Defensys) — smart gate access control system for Raspberry Pi 4B combining face recognition with ESP32-based hardware control.
 
-Open-source contributions (upstream, verified against live PR status):
-- matplotlib/matplotlib#31844 — merged. Snap near-integer arc windings to a full circle on polar plots.
-- plotly/plotly.js#7837 — merged. Fix fitbounds to pick the compact side of the globe across the antimeridian.
+Open-source contributions (upstream, verified against live PR status, Nov 2026):
+- keras-team/keras#23093 — merged. Fix ops.normalize producing NaN gradients for zero vectors.
 - pandas-dev/pandas#65841 — merged. Fix Categorical.map() erroring when categories are mapped to tuples.
+- plotly/plotly.js#7837 — merged. Fix fitbounds to pick the compact side of the globe across the antimeridian.
+- matplotlib/matplotlib#31844 — merged. Snap near-integer arc windings to a full circle on polar plots.
+- plotly/plotly.py#5596 — merged. Fix to_html responsive height by styling the outer wrapper div.
+- plotly/plotly.js#7965 — open. Add domainpad: pixel spacing inside cartesian axis domains, so subplot titles stop overlapping on short figures (closes #7835).
 - scipy/scipy#25355 — open. stats.linregress now warns and returns NaN on constant input instead of garbage.
-- keras-team/keras#23093 — open. Fix ops.normalize producing NaN gradients for zero vectors.
+
+Listed in:
+- sacridini/Awesome-Geospatial#295 — merged. synapse-sr added to Awesome Geospatial.
 -->
 
