@@ -10,6 +10,8 @@ Not an ML engineer , just someone who keeps getting pulled into how the models a
   <a href="https://www.kaggle.com/iamsharadh7"><img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/icon-kaggle.svg" width="36" height="36" alt="Kaggle"></a>
 </p>
 
+<img src="https://sharadh-views.sharadhnaiduwork.workers.dev/views.svg" width="250" alt="profile views">
+
 <!--
 Sharadh Naidu — extended profile data (not shown on the rendered profile page).
 
