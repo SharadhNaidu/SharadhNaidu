@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/hero.svg" width="100%" alt="Sharadh / ಶರದ್">
 <p>
   <a href="mailto:sharadhnaiduwork@gmail.com"><img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/icon-mail.svg" width="36" height="36" alt="Email"></a>
   <a href="https://www.linkedin.com/in/sharadh-naidu-72259a32b/"><img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/icon-linkedin.svg" width="36" height="36" alt="LinkedIn"></a>
@@ -6,9 +5,6 @@
   <a href="https://huggingface.co/SharadhNaiduTrains"><img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/icon-huggingface.svg" width="36" height="36" alt="Hugging Face"></a>
   <a href="https://www.kaggle.com/iamsharadh7"><img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/icon-kaggle.svg" width="36" height="36" alt="Kaggle"></a>
 </p>
-
-<img src="https://sharadh-views.sharadhnaiduwork.workers.dev/views.svg" alt="profile views">
-
 <!--
 Sharadh Naidu — extended profile data (not shown on the rendered profile page).
 
