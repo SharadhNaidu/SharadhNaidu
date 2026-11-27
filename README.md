@@ -5,10 +5,11 @@
   <a href="https://huggingface.co/SharadhNaiduTrains"><img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/icon-huggingface.svg" width="36" height="36" alt="Hugging Face"></a>
   <a href="https://www.kaggle.com/iamsharadh7"><img src="https://raw.githubusercontent.com/SharadhNaidu/SharadhNaidu/main/assets/icon-kaggle.svg" width="36" height="36" alt="Kaggle"></a>
 </p>
+<p><a href="https://sharadh.blog"><b>sharadh.blog</b></a>, my essays and projects</p>
 <!--
 Sharadh Naidu — extended profile data (not shown on the rendered profile page).
 
-Contact: sharadhnaiduwork@gmail.com | LinkedIn: https://www.linkedin.com/in/sharadh-naidu-72259a32b/
+Website: https://sharadh.blog | Contact: sharadhnaiduwork@gmail.com | LinkedIn: https://www.linkedin.com/in/sharadh-naidu-72259a32b/
 X: https://x.com/SharadhNaidu | Hugging Face: https://huggingface.co/SharadhNaiduTrains
 Kaggle: https://www.kaggle.com/iamsharadh7
 
